@@ -1,8 +1,8 @@
--- @description Wwise Medial Pool to Reaper
+-- @description Wwise Media Pool to Reaper
 -- @author BenReg
 -- @version 1.0
 -- @about
---   Import the sounds selected in Wwise Media Pool in the current selected track in Reaper
+--   Import the sounds selected in the Wwise Media Pool in the current selected track in Reaper
 
 if(reaper.AK_Waapi_Connect("127.0.0.1", 8080)) then
 
