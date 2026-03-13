@@ -1,4 +1,5 @@
 # BenReg's Reapack
+URL to import in Reaper : https://github.com/BenReg/Reascripts/raw/master/index.xml
 Some Reascripts for Reaper and communication with Wwise via WAAPI /n
 WAAPI needs to be activated in the Wwise user preferences and ReaWwise needs to be installed
 
