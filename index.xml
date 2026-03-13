@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="BenReg's Reapack" commit="c5209cac929eb822c0ad49ff273c34375739ebfb">
+<index version="1" name="BenReg's Reapack" commit="bb5bbf57785c4527c5ffef160020f2041cd5a7c2">
   <category name="Reaper - Wwise">
-    <reapack name="WwiseToReaper.lua" type="script" desc="Wwise Medial Pool to Reaper">
+    <reapack name="WwiseToReaper.lua" type="script" desc="Wwise Media Pool to Reaper">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 Import the sounds selected in Wwise Media Pool in the current selected track in Reaper\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Import the sounds selected in the Wwise Media Pool in the current selected track in Reaper\par}
 }
 ]]></description>
       </metadata>
