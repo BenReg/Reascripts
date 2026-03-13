@@ -22,7 +22,7 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 BenReg's Reapack\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Some Reascripts for Reaper and communication with Wwise via WAAPI /n WAAPI needs to be activated in the Wwise user preferences and ReaWwise needs to be installed\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 URL to import in Reaper : https://github.com/BenReg/Reascripts/raw/master/index.xml /n Some Reascripts for Reaper and communication with Wwise via WAAPI /n WAAPI needs to be activated in the Wwise user preferences and ReaWwise needs to be installed\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab WwiseToReaper : will import the files selected in the Wwise MediaPool on the current selected track in Reaper\sa180\par}
 }
 ]]></description>
